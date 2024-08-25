@@ -93,6 +93,8 @@ Download the human chomosome 22 from here: [https://schatz-lab.org/appliedgenomi
 
 - While a string of length G has G-k+1 kmers, there may be many fewer *distinct* kmers. For example, in the string "GCATCATCATCATCATCATCAT..." the kmers are: GCA, CAT, ATC, TCA, CAT, ATC, TCA, CAT, ATC, TCA, CAT, ... As such there are only 4 disinct kmers (GCA, CAT, ATC, TCA). Of these GCA occurs once and the others occur many times.
 
+- If your computer runs out of RAM, you can use a portion of chromosome22 (e.g the first 20Mbp or smaller region). Just make to to mark which portion of the chromosome you are using. Also make sure that this region is not just N characters.
+
 #### Questions:
 
 - Question 3.1. How many As, Cs, Gs, Ts and Ns are found in the entire chromosome? If needed convert lowercase letters to uppercase, and any other character can be converted to N.
@@ -151,6 +153,7 @@ for (i = 1; i <= max_frequency; i++)
 - Question 3.4. a) What percent of the genome is unique, e.g. what percent of the kmers occur 1 time. b) What percent of the genome is repetitive (occurs more than 1 time). c) What percent occurs more than 1000 times? 
 
   - Note: For this analysis, you should separately consider all of the kmers in the genome, e.g. the denominator will be G-k+1. When computing the unique percentage, use the number of unique kmers as the numerator. When computing repetitive percentages, make sure to separately count each instance of a repetitve kmer. For example the string "GCATCATCAT" has kmers: GCA, CAT, ATC, TCA, CAT, ATC, TCA, CAT. Of these 1/8 (12.5%) are unique and 7/8 (87.5%) are repetitive
+
 
 
 ### Question 4: Why Genomics? [10 pts]
