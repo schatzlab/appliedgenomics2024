@@ -47,7 +47,7 @@ genome_coverage = initialize_array_with_zero(genomesize)
 
 for (i = 0; i < num_reads; i++)
 {
-  startpos = uniform_random(1,genomelength-readlength)
+  startpos = uniform_random(1,genomesize-readlength)
   endpos = startpos + readlength - 1
   for (x = startpos; x <= endpos; x++)
   {
@@ -60,7 +60,7 @@ maxcoverage = max(genomecoverage)
 ## use an array count how many positions have 0x coverage, have 1x coverage, have 2x coverage, ...
 histogram = initialize_array_with_zero(maxcoverage)
 
-for (x = 0; x < genomelength; x++)
+for (x = 0; x < genomecoverage; x++)
 {
   cov = genomecoverage[x]
   histogram[cov] = histogram[cov] + 1
@@ -172,7 +172,7 @@ for (i = 1; i <= max_frequency; i++)
 - You may wish to try out [`datamash`](https://www.gnu.org/software/datamash/)
 - You may find [`samtools`](http://www.htslib.org/) and especially `samtools faidx` helpful for indexing the fasta files
 - Plotting can be done in any language; R or Python are recommended; Excel is okay but ugly :-P
-- Be sure to clearly mark each question and subquestion in the PDF and then highlight each question in GenomeScope
+- Be sure to clearly mark each question and subquestion in the PDF and then highlight each question in GradeScope
 - If your laptop runs out of RAM for question 3, you can consider the first 1Mbp or 10Mbp of the genome. Just be sure to mark what part of the genome you considered
 
 
