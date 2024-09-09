@@ -101,10 +101,34 @@ $ conda config --add channels bioconda
 $ conda config --set channel_priority strict
 ```
 
-Once bioconda is configured, all of the tools needed for this assignment except spades can be installed using:
+Once bioconda is configured, all of the tools needed for this assignment except spades can be installed. Let's create a new environment with these tools:
 
 ```
-$ mamba install samtools bowtie bwa mummer4 jellyfish fastqc fastx_toolkit
+$ mamba create -n asn2 samtools bowtie bwa mummer4 jellyfish fastqc fastx_toolkit
+```
+
+Let's also create an environment for GraphViz which conflicts with other dependencies:
+
+```
+$ mamba create -n graphviz graphviz
+```
+
+In order to use these environment, either run:
+
+```
+$ mamba activate asn2
+```
+
+or 
+
+```
+$ mamba activate graphviz
+```
+
+To deactivate an environment, run:
+
+```
+$ mamba deactivate
 ```
 
 For spades, download the precompiled version from here (installing with conda is tricky because there are conflicts in the dependencies):
