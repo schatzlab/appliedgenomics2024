@@ -90,9 +90,9 @@ On linux or mac I *highly* recommend that you use bioconda to install the packag
 The easiest way to install conda is with [Miniconda](https://docs.conda.io/en/latest/miniconda.html). For M1 macs, you must use the x86 installation in emulation mode since  M1/arm support is still limited. For this you will use the "Rosette 2" subsystem that will convert M1 arm instructions into x86_64 on the fly. Rosette will be automatically installed when you go to run it. I also recommend using [mamba](https://github.com/mamba-org/mamba) instead of the default `conda` command for installing new packages:
 
 ```
-## Replace MacOS-x86_64 with the version you downloaded from https://github.com/conda-forge/miniforge#mambaforge
-$ chmod +x ./Mambaforge-MacOSX-x86_64.sh
-$ ./Mambaforge-MacOSX-x86_64.sh
+## Replace MacOS-x86_64 with the version you downloaded from https://github.com/conda-forge/miniforge
+$ chmod +x ./Miniforge-MacOSX-x86_64.sh
+$ ./Miniforge-MacOSX-x86_64.sh
 
 ## After mamba is installed add bioconda as a default channel
 $ conda config --add channels conda-forge
