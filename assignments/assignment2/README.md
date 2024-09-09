@@ -104,7 +104,7 @@ $ conda config --set channel_priority strict
 Once bioconda is configured, all of the tools needed for this assignment except spades can be installed using:
 
 ```
-$ mamba install samtools bowtie bwa mummer4 jellyfish fastqc fastx_toolkit graphviz
+$ mamba install samtools bowtie bwa mummer4 jellyfish fastqc fastx_toolkit
 ```
 
 For spades, download the precompiled version from here (installing with conda is tricky because there are conflicts in the dependencies):
