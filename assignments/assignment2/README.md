@@ -34,7 +34,7 @@ TTGAT
 
 #### Question 2. Coverage Analysis [20 pts]
 
-Download the reads and reference genome from: [https://github.com/schatzlab/appliedgenomics2024/blob/main/assignments/assignment2/asm.tgz?raw=true](https://github.com/schatzlab/appliedgenomics2024/blob/main/assignments/assignment2/asm.tgz?raw=true)
+Download the reads and reference genome from: [https://github.com/schatzlab/appliedgenomics2024/raw/main/assignments/assignment2/asm.tgz](https://github.com/schatzlab/appliedgenomics2024/raw/main/assignments/assignment2/asm.tgz)
 
 Note we have provided both paired-end and mate-pairs reads (see included README for details). Make sure to look at all of the reads for the coverage analysis and kmer analysis, as well as in the assembly.
 
