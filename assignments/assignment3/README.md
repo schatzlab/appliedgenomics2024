@@ -94,9 +94,9 @@ To answer the following questions, you will need to run several alignment and va
 
 - 4b. How many SNPs and indels does each file have? [Hint: Sort the SAM file first. Then, call variants with `freebayes`. Summarize using `bcftools stats`.]
 
-- 4c. You now know which SNPs and indels each friend has. However, you want to know which variant they all share. How many variants are shared between all three friends? [Hint: Use `bcftools isec`.]
+- 4c. You now know which SNPs and indels each friend has. However, you want to know which variant they all share. How many variants are shared between all three friends? [Hint: Use `bcftools isec` after normalizing the variants.]
 
-- 4d. Between the variants shared between all three friends, which is likeliest to cause a phenotype of interest? [Hint: You can search for variants at a certain chromosome and position at https://www.ncbi.nlm.nih.gov/snp/advanced/. Remember, the position in the intersected VCF is the position within the region we're looking at, so you will have to find the starting location of the region!]
+- 4d. Between the variants shared between all three friends, which is likeliest to cause a phenotype of interest? [Hint: The variant should be homozygous in all 3 samples. You can search for variants at a certain chromosome and position at https://www.ncbi.nlm.nih.gov/snp/advanced/. Remember, the position in the intersected VCF is the position within the region we're looking at, so you will have to find the starting location of the region!]
 
 - 4e. What is the phenotype? [Hint: Search the name of the gene associated with the variant you found in 4d.]
 
@@ -116,7 +116,9 @@ If you submit after this time, you will use your late days. Remember, you are on
 
 ```
 ## Install bowtie2 and samtools via mamba/conda
-$ mamba install bowtie2 samtools
+$ mamba create -n assignment3 bowtie2
+$ mamba activate assignment3
+$ mamba install samtools
 
 ## Build a bowtie2 index (BWT)
 $ bowtie2-build ref.fa ref
@@ -132,15 +134,24 @@ $ samtools stats PREFIX.bam > PREFIX.stats
 
 ```
 $ mamba install freebayes
-$ freebayes -f chr22.fa PREFIX.bam > PREFIX.vcf
+$ freebayes -f ref.fa PREFIX.bam > PREFIX.vcf
 ```
 
 #### [bcftools](https://samtools.github.io/bcftools/bcftools.html) - VCF summary
 
 ```
 $ mamba install bcftools
-$ bcftools stats PREFIX.vcf > PREFIX.stats.txt
+$ bcftools stats PREFIX.vcf > PREFIX.vcf.stats
+
+## normalize, compress, and index the variants before comparing
+$ bcftools norm -f ref.fa PREFIX.vcf > PREFIX.norm.vcf
+$ bgzip PREFIX.norm.vcf
+$ bcftools index PREFIX.norm.vcf.gz
+...
+$ bcftools isec PREFIX1.norm.vcf.gz PREFIX2.norm.vcf.gz PREFIX3.norm.vcf.gz -p norm -n =3
 ```
+
+
 
 #### [BEDTools](http://bedtools.readthedocs.io/en/latest/) - Genome arithmetic
 
