@@ -84,7 +84,7 @@ Hint: use your sourcecode from Q1 to debug Q2. Also start with simple strings li
 
 *Three friends, Ezra, Sabine, and Zeb go out to lunch together and, in discussing the menu, all realize that they all have a specific culinary preference. They believe the cause of this preference to be genetic. Can you identify what SNP causes this preference and what the preference is?*
 
-Download the read set from here: [https://github.com/schatzlab/appliedgenomics2024/tree/main/assignments/assignment4/input_files](https://github.com/schatzlab/appliedgenomics2022/tree/main/assignments/assignment4/input_files)
+Download the read set from here: [https://github.com/schatzlab/appliedgenomics2024/tree/main/assignments/assignment4/input_files]([https://github.com/schatzlab/appliedgenomics2022/tree/main/assignments/assignment4/input_files](https://github.com/schatzlab/appliedgenomics2024/tree/main/assignments/assignment3/input_files))
 
 For this question, you may find this tutorial helpful: [https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionVI/lessons/02_variant-calling.html](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionVI/lessons/02_variant-calling.html)
 
@@ -96,7 +96,7 @@ To answer the following questions, you will need to run several alignment and va
 
 - 4c. You now know which SNPs and indels each friend has. However, you want to know which variant they all share. How many variants are shared between all three friends? [Hint: Use `bcftools isec` after normalizing the variants.]
 
-- 4d. Between the variants shared between all three friends, which is likeliest to cause a phenotype of interest? [Hint: The variant should be homozygous in all 3 samples. You can search for variants at a certain chromosome and position at https://www.ncbi.nlm.nih.gov/snp/advanced/. Remember, the position in the intersected VCF is the position within the region we're looking at, so you will have to find the starting location of the region!]
+- 4d. Between the variants shared between all three friends, which is likeliest to cause a phenotype of interest? [Hint: The variant should be homozygous in all 3 samples. You can search for variants at a certain chromosome and position at https://www.ncbi.nlm.nih.gov/snp/advanced/. Remember, the position in the intersected VCF is the position within the region we're looking at, so you will have to find the starting location of the region! Use `bcftools view -i 'GT="1/1"' PREFIX.vcf` to filter for the correct genotype.]
 
 - 4e. What is the phenotype? [Hint: Search the name of the gene associated with the variant you found in 4d.]
 
@@ -148,16 +148,7 @@ $ bcftools norm -f ref.fa PREFIX.vcf > PREFIX.norm.vcf
 $ bgzip PREFIX.norm.vcf
 $ bcftools index PREFIX.norm.vcf.gz
 ...
-$ bcftools isec PREFIX1.norm.vcf.gz PREFIX2.norm.vcf.gz PREFIX3.norm.vcf.gz -p norm -n =3
+$ bcftools isec PREFIX1.norm.vcf.gz PREFIX2.norm.vcf.gz PREFIX3.norm.vcf.gz -p norm -n=3
 ```
 
-
-
-#### [BEDTools](http://bedtools.readthedocs.io/en/latest/) - Genome arithmetic
-
-Get bedtools from conda, if you haven't already.
-
-```
-$ mamba install bedtools
-```
 
