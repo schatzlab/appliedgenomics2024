@@ -1,4 +1,4 @@
-## Assignment 3: BWT and Modimizers
+## Assignment 3: BWT and Variant Calling
 Assignment Date: Monday, September 23, 2024 <br>
 Due Date: Monday, September 30, 2023 @ 11:59pm <br>
 
