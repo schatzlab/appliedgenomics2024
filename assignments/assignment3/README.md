@@ -84,7 +84,7 @@ Hint: use your sourcecode from Q1 to debug Q2. Also start with simple strings li
 
 *Three friends, Ezra, Sabine, and Zeb go out to lunch together and, in discussing the menu, all realize that they all have a specific culinary preference. They believe the cause of this preference to be genetic. Can you identify what SNP causes this preference and what the preference is?*
 
-Download the read set from here: [https://github.com/schatzlab/appliedgenomics2024/tree/main/assignments/assignment4/input_files]([https://github.com/schatzlab/appliedgenomics2022/tree/main/assignments/assignment4/input_files](https://github.com/schatzlab/appliedgenomics2024/tree/main/assignments/assignment3/input_files))
+Download the read set from here: [https://github.com/schatzlab/appliedgenomics2024/tree/main/assignments/assignment3/input_files]([https://github.com/schatzlab/appliedgenomics2022/tree/main/assignments/assignment3/input_files](https://github.com/schatzlab/appliedgenomics2024/tree/main/assignments/assignment3/input_files))
 
 For this question, you may find this tutorial helpful: [https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionVI/lessons/02_variant-calling.html](https://hbctraining.github.io/In-depth-NGS-Data-Analysis-Course/sessionVI/lessons/02_variant-calling.html)
 
