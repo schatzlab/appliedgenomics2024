@@ -35,8 +35,11 @@ We will study the leading computational and quantitative approaches for comparin
 - [Molecular Biology of the Cell (Alberts)](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 - [Biological Sequence Analysis (Durbin et al)](https://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713)
 - [Modern Statistics for Modern Biology (Holmes & Huber)](https://www.huber.embl.de/msmb/index.html)
+- [An Owner's Guide to the Human Genome (Pritchard)](https://web.stanford.edu/group/pritchardlab/HGbook.html)
+- [Genome-wide Association Studies](https://www.mv.helsinki.fi/home/mjxpirin/GWAS_course/)
 - [WDL Workflows](https://jhudatascience.org/AnVIL_Book_WDL/index.html)
 - [UCSC Genome Browswer](https://genome.ucsc.edu/training/education/)
+
 
 
 ## Schedule
