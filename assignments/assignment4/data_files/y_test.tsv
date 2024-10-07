@@ -1,0 +1,662 @@
+	Tissue
+GTEX-ZE9C-0011-R11a-SM-4WKGG	Brain - Cerebellar Hemisphere
+GTEX-13X6K-0011-R11a-SM-5P9F5	Brain - Cerebellar Hemisphere
+GTEX-16Z82-0011-R7a-SM-7MKGJ	Brain - Putamen (basal ganglia)
+GTEX-11DXW-1026-SM-5H11K	Brain - Cerebellum
+GTEX-ZUA1-0011-R3a-SM-4YCEE	Brain - Anterior cingulate cortex (BA24)
+GTEX-1B933-0011-R6b-SM-79OOQ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-111FC-3326-SM-5GZYV	Brain - Cerebellum
+GTEX-13X6K-0011-R5b-SM-5PNUE	Brain - Caudate (basal ganglia)
+GTEX-1F6I4-3026-SM-7P8SI	Brain - Cerebellum
+GTEX-1LVA9-0011-R9a-SM-EYYWF	Brain - Spinal cord (cervical c-1)
+GTEX-145LU-2626-SM-5LU9Z	Brain - Cerebellum
+GTEX-1IDJH-0011-R3a-SM-CJI42	Brain - Anterior cingulate cortex (BA24)
+GTEX-12ZZY-0011-R6b-SM-5EGLA	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1AX9I-0011-R5b-SM-793DI	Brain - Caudate (basal ganglia)
+GTEX-1C6WA-0011-R3a-SM-9OSVP	Brain - Anterior cingulate cortex (BA24)
+GTEX-1E1VI-0011-R1a-SM-ARZMM	Brain - Hippocampus
+GTEX-139TS-0011-R6a-SM-5J2OB	Brain - Nucleus accumbens (basal ganglia)
+GTEX-QDT8-0011-R4A-SM-32PKM	Brain - Amygdala
+GTEX-YFC4-0011-R9a-SM-4SOK4	Brain - Spinal cord (cervical c-1)
+GTEX-1I1GR-0011-R4a-SM-CMKHC	Brain - Amygdala
+GTEX-1JJEA-2926-SM-C1YSK	Brain - Cerebellum
+GTEX-1POEN-2726-SM-E9U6B	Brain - Cerebellum
+GTEX-1CB4G-0011-R11a-SM-9OSWG	Brain - Cerebellar Hemisphere
+GTEX-1A3MX-0011-R10b-SM-7P8PG	Brain - Frontal Cortex (BA9)
+GTEX-RU72-0011-R6A-SM-2TF71	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1F6IF-3026-SM-7P8QN	Brain - Cerebellum
+GTEX-1I1GV-0011-R2a-SM-ARZLF	Brain - Substantia nigra
+GTEX-13OW6-0011-R10a-SM-5L3HE	Brain - Frontal Cortex (BA9)
+GTEX-183WM-0011-R11a-SM-718A5	Brain - Cerebellar Hemisphere
+GTEX-14BIM-0011-R4b-SM-5S2RK	Brain - Amygdala
+GTEX-T5JC-0011-R6A-SM-D3L87	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11ONC-0011-R1a-SM-57WD4	Brain - Hippocampus
+GTEX-11ONC-0011-R8b-SM-5NQ87	Brain - Hypothalamus
+GTEX-13S7M-3126-SM-5RQJQ	Brain - Cortex
+GTEX-1F6IF-0011-R5b-SM-CM2RH	Brain - Caudate (basal ganglia)
+GTEX-16XZZ-2926-SM-6LPK4	Brain - Cerebellum
+GTEX-1RLM8-0011-R8a-SM-EYYXR	Brain - Hypothalamus
+GTEX-YFC4-3126-SM-5PNV6	Brain - Cortex
+GTEX-139TT-0011-R1a-SM-5LZVD	Brain - Hippocampus
+GTEX-ZAB4-0011-R11a-SM-4SOKI	Brain - Cerebellar Hemisphere
+GTEX-1H3O1-0011-R4b-SM-A9SKE	Brain - Amygdala
+GTEX-ZXG5-0011-R7b-SM-57WCC	Brain - Putamen (basal ganglia)
+GTEX-NPJ7-0011-R9a-SM-2TC5R	Brain - Spinal cord (cervical c-1)
+GTEX-1EMGI-0011-R6a-SM-9OSVR	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13O3O-3026-SM-5KM42	Brain - Cerebellum
+GTEX-145MH-0011-R8a-SM-5PNUL	Brain - Hypothalamus
+GTEX-145LU-0011-R10a-SM-5PNWJ	Brain - Frontal Cortex (BA9)
+GTEX-15DCD-0011-R3b-SM-D4P1P	Brain - Anterior cingulate cortex (BA24)
+GTEX-131XH-0011-R11a-SM-5EGLN	Brain - Cerebellar Hemisphere
+GTEX-13FHP-0011-R1b-SM-5K7XL	Brain - Hippocampus
+GTEX-11TTK-0011-R4a-SM-DNZZU	Brain - Amygdala
+GTEX-1H3NZ-0011-R11b-SM-CE6SF	Brain - Cerebellar Hemisphere
+GTEX-145MH-0011-R10b-SM-5PNUK	Brain - Frontal Cortex (BA9)
+GTEX-145MH-3026-SM-5Q5DZ	Brain - Cortex
+GTEX-ZVT3-2926-SM-5GU6M	Brain - Cerebellum
+GTEX-13OVL-0011-R4b-SM-5L3HV	Brain - Amygdala
+GTEX-1GMRU-0011-R7b-SM-A96TJ	Brain - Putamen (basal ganglia)
+GTEX-1HCVE-0011-R10a-SM-ARZLT	Brain - Frontal Cortex (BA9)
+GTEX-1JMQK-3026-SM-ARL95	Brain - Cortex
+GTEX-1HSMO-0011-R10a-SM-CL54Y	Brain - Frontal Cortex (BA9)
+GTEX-WHSE-0011-R1A-SM-3P5ZK	Brain - Hippocampus
+GTEX-16YQH-0011-R4a-SM-7EPGI	Brain - Amygdala
+GTEX-1OJC4-0011-R9a-SM-EZ6N1	Brain - Spinal cord (cervical c-1)
+GTEX-1E1VI-0011-R7b-SM-9QEGR	Brain - Putamen (basal ganglia)
+GTEX-11EMC-0011-R10a-SM-DNZZJ	Brain - Frontal Cortex (BA9)
+GTEX-1F48J-0011-R3b-SM-9OSVY	Brain - Anterior cingulate cortex (BA24)
+GTEX-11PRG-0011-R2a-SM-69LQ5	Brain - Substantia nigra
+GTEX-YFC4-0011-R5a-SM-4RGLR	Brain - Caudate (basal ganglia)
+GTEX-1CB4G-0011-R1b-SM-9QEHT	Brain - Hippocampus
+GTEX-1HT8W-3026-SM-CGQEO	Brain - Cortex
+GTEX-11DYG-0011-R11a-SM-DNZZP	Brain - Cerebellar Hemisphere
+GTEX-14DAQ-3126-SM-62LDS	Brain - Cortex
+GTEX-17HII-2926-SM-79OMK	Brain - Cerebellum
+GTEX-1QMI2-3126-SM-EXUT5	Brain - Cortex
+GTEX-13QJC-0011-R7b-SM-5PNUM	Brain - Putamen (basal ganglia)
+GTEX-1E2YA-0011-R7a-SM-CJI1Z	Brain - Putamen (basal ganglia)
+GTEX-14JIY-0011-R6b-SM-68714	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1H3NZ-3026-SM-9JGHW	Brain - Cortex
+GTEX-13FHO-0011-R3b-SM-5K7YA	Brain - Anterior cingulate cortex (BA24)
+GTEX-XMD1-0011-R10A-SM-4AT4A	Brain - Frontal Cortex (BA9)
+GTEX-1F75B-3026-SM-7PBZ7	Brain - Cortex
+GTEX-ZYFD-3026-SM-5E44C	Brain - Cortex
+GTEX-12WSC-0011-R9a-SM-5GU4U	Brain - Spinal cord (cervical c-1)
+GTEX-13OVJ-0011-R7a-SM-5L3G1	Brain - Putamen (basal ganglia)
+GTEX-15EO6-0011-R6a-SM-7KULK	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1I1CD-0011-R2a-SM-CM2T3	Brain - Substantia nigra
+GTEX-YJ89-0011-R6a-SM-4V6GN	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1CB4H-0011-R7b-SM-CJI27	Brain - Putamen (basal ganglia)
+GTEX-P44G-0011-R2A-SM-2XCD2	Brain - Substantia nigra
+GTEX-139T8-0011-R4a-SM-5HL54	Brain - Amygdala
+GTEX-139T8-0011-R1a-SM-5HL75	Brain - Hippocampus
+GTEX-1C6WA-3026-SM-7P8RQ	Brain - Cortex
+GTEX-N7MS-2526-SM-2D7W3	Brain - Cerebellum
+GTEX-13OVJ-0011-R8b-SM-5L3FS	Brain - Hypothalamus
+GTEX-1F7RK-0011-R4b-SM-9QEI7	Brain - Amygdala
+GTEX-12ZZX-2926-SM-5GCOQ	Brain - Cortex
+GTEX-1EKGG-0011-R9a-SM-CMKFV	Brain - Spinal cord (cervical c-1)
+GTEX-147GR-0011-R6b-SM-5S2RO	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1A3MX-0011-R5a-SM-79OM5	Brain - Caudate (basal ganglia)
+GTEX-15SHU-0011-R5a-SM-7938Q	Brain - Caudate (basal ganglia)
+GTEX-RU72-3026-SM-CYPRV	Brain - Cortex
+GTEX-15EO6-0011-R2a-SM-6M46R	Brain - Substantia nigra
+GTEX-1P4AB-3026-SM-EXOJS	Brain - Cerebellum
+GTEX-1HUB1-0011-R6b-SM-ARU6W	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZDXO-0011-R1a-SM-4WKF4	Brain - Hippocampus
+GTEX-ZUA1-0011-R1a-SM-4YCE2	Brain - Hippocampus
+GTEX-1IKK5-0011-R7b-SM-A9G39	Brain - Putamen (basal ganglia)
+GTEX-12ZZY-0011-R10b-SM-5HL7W	Brain - Frontal Cortex (BA9)
+GTEX-15EO6-0011-R9a-SM-6PALG	Brain - Spinal cord (cervical c-1)
+GTEX-PVOW-2626-SM-32PL8	Brain - Cerebellum
+GTEX-1HBPH-0011-R8b-SM-CL556	Brain - Hypothalamus
+GTEX-1B8SG-1926-SM-73KUB	Brain - Cerebellum
+GTEX-13FHO-3026-SM-5J1O9	Brain - Cortex
+GTEX-147GR-0011-R9a-SM-5S2UY	Brain - Spinal cord (cervical c-1)
+GTEX-QDT8-2926-SM-32PKC	Brain - Cortex
+GTEX-1LB8K-0011-R6a-SM-EXURT	Brain - Nucleus accumbens (basal ganglia)
+GTEX-YJ89-0011-R3b-SM-4V6EF	Brain - Anterior cingulate cortex (BA24)
+GTEX-1BAJH-0011-R3a-SM-7IGNU	Brain - Anterior cingulate cortex (BA24)
+GTEX-13CF2-0011-R3b-SM-5LZZ6	Brain - Anterior cingulate cortex (BA24)
+GTEX-R55E-0011-R8A-SM-2TC66	Brain - Hypothalamus
+GTEX-NPJ7-0011-R11A-SM-2I3E8	Brain - Cerebellar Hemisphere
+GTEX-1A8G6-0011-R7b-SM-7MXTV	Brain - Putamen (basal ganglia)
+GTEX-1EMGI-0011-R3b-SM-CE6R9	Brain - Anterior cingulate cortex (BA24)
+GTEX-1I1HK-0011-R11a-SM-B2LVN	Brain - Cerebellar Hemisphere
+GTEX-131XW-0011-R8a-SM-5DUWY	Brain - Hypothalamus
+GTEX-ZF28-3026-SM-4WKHP	Brain - Cortex
+GTEX-13X6J-0011-R11a-SM-5P9HE	Brain - Cerebellar Hemisphere
+GTEX-183WM-2726-SM-7KFRF	Brain - Cerebellum
+GTEX-131XW-0011-R9a-SM-5N9EO	Brain - Spinal cord (cervical c-1)
+GTEX-13FXS-0011-R5b-SM-5LZYE	Brain - Caudate (basal ganglia)
+GTEX-14BIM-3026-SM-7EWCY	Brain - Cortex
+GTEX-1GMR8-0011-R4a-SM-9OSX1	Brain - Amygdala
+GTEX-16YQH-0011-R7a-SM-79ON1	Brain - Putamen (basal ganglia)
+GTEX-ZE7O-0011-R5a-SM-57WBO	Brain - Caudate (basal ganglia)
+GTEX-RU72-2926-SM-2TF66	Brain - Cerebellum
+GTEX-N7MT-0011-R2a-SM-2I3GI	Brain - Substantia nigra
+GTEX-ZUA1-0011-R5b-SM-51MTG	Brain - Caudate (basal ganglia)
+GTEX-145MI-0011-R10a-SM-5PNZD	Brain - Frontal Cortex (BA9)
+GTEX-13QJC-0011-R9b-SM-5PNX3	Brain - Spinal cord (cervical c-1)
+GTEX-1313W-0011-R1b-SM-5EQ4A	Brain - Hippocampus
+GTEX-1F6IF-0011-R6a-SM-9QEIO	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZAK1-0011-R4a-SM-6AJBK	Brain - Amygdala
+GTEX-18465-0011-R11a-SM-72D78	Brain - Cerebellar Hemisphere
+GTEX-1E1VI-0011-R11a-SM-9OSWI	Brain - Cerebellar Hemisphere
+GTEX-11DXY-0011-R10b-SM-DO12C	Brain - Frontal Cortex (BA9)
+GTEX-RU72-0011-R7A-SM-2TF5U	Brain - Putamen (basal ganglia)
+GTEX-QVUS-0011-R9A-SM-3GIJA	Brain - Spinal cord (cervical c-1)
+GTEX-13NZA-0011-R9b-SM-5MR5I	Brain - Spinal cord (cervical c-1)
+GTEX-1IY9M-0011-R4a-SM-C1YQ2	Brain - Amygdala
+GTEX-14DAQ-0011-R3b-SM-5YYAJ	Brain - Anterior cingulate cortex (BA24)
+GTEX-ZAK1-3026-SM-5S2MJ	Brain - Cortex
+GTEX-13RTJ-0011-R6a-SM-5SI74	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14E6D-0011-R5b-SM-69LQR	Brain - Caudate (basal ganglia)
+GTEX-1B8SF-3026-SM-731DX	Brain - Cerebellum
+GTEX-11O72-0011-R6a-SM-DNZZQ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14BIM-0011-R9a-SM-6LLJL	Brain - Spinal cord (cervical c-1)
+GTEX-12ZZX-0011-R1a-SM-5EQ6B	Brain - Hippocampus
+GTEX-1CB4J-0011-R8a-SM-9QEHU	Brain - Hypothalamus
+GTEX-Z93S-2826-SM-57WBL	Brain - Cerebellum
+GTEX-131YS-0011-R9b-SM-5EQLY	Brain - Spinal cord (cervical c-1)
+GTEX-1H3O1-0011-R8a-SM-CL555	Brain - Hypothalamus
+GTEX-17MF6-0011-R5a-SM-731BA	Brain - Caudate (basal ganglia)
+GTEX-WHSE-0011-R6A-SM-3P5ZP	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14E7W-0011-R11a-SM-5ZZVA	Brain - Cerebellar Hemisphere
+GTEX-1J1OQ-0011-R6a-SM-ARU86	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11NV4-2226-SM-5BC4T	Brain - Cerebellum
+GTEX-NL4W-0011-R11A-SM-2I3DW	Brain - Cerebellar Hemisphere
+GTEX-1JMOU-0011-R11b-SM-EXUTA	Brain - Cerebellar Hemisphere
+GTEX-1AX9I-0011-R1b-SM-7RHG2	Brain - Hippocampus
+GTEX-X4XX-0011-R4B-SM-46MWL	Brain - Amygdala
+GTEX-11H98-0011-R5b-SM-57WCF	Brain - Caudate (basal ganglia)
+GTEX-14ASI-0011-R5b-SM-6EU2M	Brain - Caudate (basal ganglia)
+GTEX-1H1CY-0011-R11a-SM-C1YQR	Brain - Cerebellar Hemisphere
+GTEX-17HG3-2826-SM-7EPGO	Brain - Cerebellum
+GTEX-13IVO-0011-R8a-SM-5L3DY	Brain - Hypothalamus
+GTEX-1E2YA-0011-R1b-SM-CJI29	Brain - Hippocampus
+GTEX-1H3VE-0011-R8b-SM-A9G1L	Brain - Hypothalamus
+GTEX-P44G-0011-R5A-SM-2I3FA	Brain - Caudate (basal ganglia)
+GTEX-1B996-0011-R10b-SM-CJI3T	Brain - Frontal Cortex (BA9)
+GTEX-11ZVC-0011-R3a-SM-5BC6V	Brain - Anterior cingulate cortex (BA24)
+GTEX-14PQA-0011-R6b-SM-6AJAM	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1GN1U-0011-R8a-SM-CL537	Brain - Hypothalamus
+GTEX-NL4W-0011-R8a-SM-2I3G4	Brain - Hypothalamus
+GTEX-1192X-0011-R5a-SM-DNZZA	Brain - Caudate (basal ganglia)
+GTEX-1IKK5-2926-SM-ARU7Q	Brain - Cortex
+GTEX-1H1DG-0011-R5b-SM-CJI33	Brain - Caudate (basal ganglia)
+GTEX-1C64N-0011-R11b-SM-7P8Q6	Brain - Cerebellar Hemisphere
+GTEX-13JUV-0011-R1a-SM-5LZY4	Brain - Hippocampus
+GTEX-ZF28-0011-R3a-SM-4WWDA	Brain - Anterior cingulate cortex (BA24)
+GTEX-13SLX-0011-R6a-SM-5PNX4	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1B8SF-3126-SM-73KU1	Brain - Cortex
+GTEX-ZDXO-0011-R6a-SM-4WWCT	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1F75W-0011-R8a-SM-9QEI4	Brain - Hypothalamus
+GTEX-145LU-0011-R11b-SM-5P9JX	Brain - Cerebellar Hemisphere
+GTEX-1IKOH-0011-R11a-SM-AHZ38	Brain - Cerebellar Hemisphere
+GTEX-15G19-0011-R9b-SM-7KUEE	Brain - Spinal cord (cervical c-1)
+GTEX-15CHQ-0011-R4a-SM-686ZX	Brain - Amygdala
+GTEX-X585-0011-R8A-SM-46MUX	Brain - Hypothalamus
+GTEX-12WSM-0011-R11a-SM-5DUX8	Brain - Cerebellar Hemisphere
+GTEX-S7SE-0011-R7A-SM-2XCDI	Brain - Putamen (basal ganglia)
+GTEX-17EVQ-0011-R6a-SM-7189U	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14ASI-0011-R6a-SM-5S2UZ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11GSO-0011-R2a-SM-57WDF	Brain - Substantia nigra
+GTEX-T5JC-0011-R5A-SM-32PLK	Brain - Caudate (basal ganglia)
+GTEX-16NPV-0011-R10a-SM-79OKA	Brain - Frontal Cortex (BA9)
+GTEX-1JMLX-0011-R9a-SM-EYYXM	Brain - Spinal cord (cervical c-1)
+GTEX-1I1GQ-0011-R5a-SM-CMKHJ	Brain - Caudate (basal ganglia)
+GTEX-13FHP-0011-R6b-SM-5LZY6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13NYB-0011-R10a-SM-5KM43	Brain - Frontal Cortex (BA9)
+GTEX-1H3NZ-2926-SM-9WPQ8	Brain - Cerebellum
+GTEX-1MA7X-0011-R7b-SM-EYYWS	Brain - Putamen (basal ganglia)
+GTEX-WVLH-0011-R8A-SM-3MJFC	Brain - Hypothalamus
+GTEX-13QIC-0011-R11b-SM-5O9BU	Brain - Cerebellar Hemisphere
+GTEX-X585-0011-R2B-SM-46MVF	Brain - Substantia nigra
+GTEX-1AX9I-0011-R8a-SM-7P8PJ	Brain - Hypothalamus
+GTEX-15DCD-0011-R1b-SM-6LPIJ	Brain - Hippocampus
+GTEX-12WSF-0011-R7b-SM-5HL99	Brain - Putamen (basal ganglia)
+GTEX-1B8SF-0011-R5a-SM-79OOO	Brain - Caudate (basal ganglia)
+GTEX-17HHY-3026-SM-79OKP	Brain - Cortex
+GTEX-1R9PO-0011-R11b-SM-EZ6NB	Brain - Cerebellar Hemisphere
+GTEX-TSE9-0011-R11A-SM-3DB7N	Brain - Cerebellar Hemisphere
+GTEX-17F97-0011-R7b-SM-7MGVY	Brain - Putamen (basal ganglia)
+GTEX-16GPK-0011-R11b-SM-7MKFF	Brain - Cerebellar Hemisphere
+GTEX-13O3Q-0011-R4a-SM-5P9H2	Brain - Amygdala
+GTEX-14PQA-0011-R3b-SM-69LQO	Brain - Anterior cingulate cortex (BA24)
+GTEX-11PRG-2826-SM-5BC54	Brain - Cerebellum
+GTEX-TSE9-0011-R5A-SM-3DB7J	Brain - Caudate (basal ganglia)
+GTEX-12WSD-3026-SM-5LZU7	Brain - Cerebellum
+GTEX-1HBPH-0011-R6a-SM-CKZOV	Brain - Nucleus accumbens (basal ganglia)
+GTEX-15G19-0011-R3a-SM-6LPIG	Brain - Anterior cingulate cortex (BA24)
+GTEX-13NYB-0011-R9b-SM-5MR5P	Brain - Spinal cord (cervical c-1)
+GTEX-1EU9M-0011-R7b-SM-9OSVU	Brain - Putamen (basal ganglia)
+GTEX-1JJ6O-3026-SM-C1YQH	Brain - Cerebellum
+GTEX-13OW7-0011-R5b-SM-5O9DM	Brain - Caudate (basal ganglia)
+GTEX-1B996-0011-R5a-SM-7P8PN	Brain - Caudate (basal ganglia)
+GTEX-1MJK2-0011-R6a-SM-EXUS3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-OXRN-2426-SM-2I5EQ	Brain - Cortex
+GTEX-147GR-3026-SM-5S2ML	Brain - Cortex
+GTEX-X4EP-0011-R10B-SM-4QASJ	Brain - Frontal Cortex (BA9)
+GTEX-13PDP-0011-R6b-SM-5O9D5	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1HBPM-0011-R9b-SM-ARL7C	Brain - Spinal cord (cervical c-1)
+GTEX-1I1HK-0011-R10b-SM-CJI3M	Brain - Frontal Cortex (BA9)
+GTEX-1EN7A-0011-R3a-SM-9OSVT	Brain - Anterior cingulate cortex (BA24)
+GTEX-N7MT-0011-R3a-SM-2I3GC	Brain - Anterior cingulate cortex (BA24)
+GTEX-11H98-0011-R11b-SM-5NQ6U	Brain - Cerebellar Hemisphere
+GTEX-1A8G6-2926-SM-731CK	Brain - Cortex
+GTEX-15SHU-0011-R3a-SM-7IGPS	Brain - Anterior cingulate cortex (BA24)
+GTEX-12ZZX-2826-SM-5BC6K	Brain - Cerebellum
+GTEX-1IKK5-0011-R8b-SM-CJI45	Brain - Hypothalamus
+GTEX-1CB4H-3026-SM-79OLX	Brain - Cerebellum
+GTEX-1I1GV-3026-SM-CNNR9	Brain - Cerebellum
+GTEX-1KD4Q-0011-R3b-SM-EXOID	Brain - Anterior cingulate cortex (BA24)
+GTEX-1GF9W-0011-R3b-SM-CJI2S	Brain - Anterior cingulate cortex (BA24)
+GTEX-OHPN-0011-R1A-SM-2I5GB	Brain - Hippocampus
+GTEX-1IDJH-0011-R11b-SM-C1YRT	Brain - Cerebellar Hemisphere
+GTEX-14JG1-3026-SM-5YYAA	Brain - Cortex
+GTEX-WL46-0011-R3A-SM-3TW8E	Brain - Anterior cingulate cortex (BA24)
+GTEX-1EX96-0011-R5a-SM-ARU83	Brain - Caudate (basal ganglia)
+GTEX-1HBPM-0011-R6b-SM-ARU73	Brain - Nucleus accumbens (basal ganglia)
+GTEX-RNOR-0011-R9A-SM-2TF52	Brain - Spinal cord (cervical c-1)
+GTEX-13NYB-0011-R6b-SM-5MR51	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13RTJ-0011-R1a-SM-5O9D9	Brain - Hippocampus
+GTEX-PWO3-0011-R1A-SM-2I5EW	Brain - Hippocampus
+GTEX-1EH9U-0011-R9b-SM-9WG5T	Brain - Spinal cord (cervical c-1)
+GTEX-1H1DG-0011-R6a-SM-A9SK8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZUA1-0011-R6b-SM-4YCDD	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11EMC-3226-SM-5EGKW	Brain - Cortex
+GTEX-1H1DG-0011-R7b-SM-A96RR	Brain - Putamen (basal ganglia)
+GTEX-13NYS-0011-R6b-SM-5MR3R	Brain - Nucleus accumbens (basal ganglia)
+GTEX-18464-0011-R7b-SM-731CM	Brain - Putamen (basal ganglia)
+GTEX-1H3VE-0011-R10b-SM-A9SKC	Brain - Frontal Cortex (BA9)
+GTEX-15DCD-0011-R2b-SM-6LPIE	Brain - Substantia nigra
+GTEX-15CHQ-0011-R7b-SM-D4P1Q	Brain - Putamen (basal ganglia)
+GTEX-1I1GQ-0011-R1a-SM-CY8GG	Brain - Hippocampus
+GTEX-11OF3-0011-R5a-SM-57WB4	Brain - Caudate (basal ganglia)
+GTEX-X4XX-0011-R3B-SM-46MWK	Brain - Anterior cingulate cortex (BA24)
+GTEX-13S7M-0011-R9a-SM-5O9DW	Brain - Spinal cord (cervical c-1)
+GTEX-1H1ZS-0011-R11a-SM-C1YQM	Brain - Cerebellar Hemisphere
+GTEX-13O3Q-0011-R8b-SM-5KM2J	Brain - Hypothalamus
+GTEX-15DYW-0011-R3b-SM-6LPIM	Brain - Anterior cingulate cortex (BA24)
+GTEX-1GZ2Q-0011-R10b-SM-CE6RN	Brain - Frontal Cortex (BA9)
+GTEX-17HG3-0011-R6b-SM-79OK8	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1F6IF-0011-R2b-SM-9QEHB	Brain - Substantia nigra
+GTEX-12WSM-0011-R7b-SM-5EGLD	Brain - Putamen (basal ganglia)
+GTEX-1B8SF-0011-R6b-SM-7MXUD	Brain - Nucleus accumbens (basal ganglia)
+GTEX-X261-3126-SM-4PQZC	Brain - Cerebellum
+GTEX-1GMRU-3026-SM-7P8TC	Brain - Cortex
+GTEX-1HBPI-0011-R8a-SM-A9G1S	Brain - Hypothalamus
+GTEX-WVLH-0011-R4A-SM-3MJFS	Brain - Amygdala
+GTEX-13X6K-0011-R10a-SM-5P9JR	Brain - Frontal Cortex (BA9)
+GTEX-1JJEA-0011-R11a-SM-EXUTE	Brain - Cerebellar Hemisphere
+GTEX-13QJC-0011-R6a-SM-5S2VI	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1J8EW-0011-R3a-SM-ARU8A	Brain - Anterior cingulate cortex (BA24)
+GTEX-1J8Q2-0011-R7a-SM-CKZPF	Brain - Putamen (basal ganglia)
+GTEX-1F7RK-0011-R10b-SM-ARU7Y	Brain - Frontal Cortex (BA9)
+GTEX-15DYW-0011-R4a-SM-6M46V	Brain - Amygdala
+GTEX-131XH-0011-R2b-SM-5DUVY	Brain - Substantia nigra
+GTEX-NL3H-0011-R7a-SM-2I3G5	Brain - Putamen (basal ganglia)
+GTEX-1I19N-0011-R11b-SM-ARU6Y	Brain - Cerebellar Hemisphere
+GTEX-13G51-3126-SM-5IJG7	Brain - Cerebellum
+GTEX-1E2YA-2926-SM-7MGWX	Brain - Cerebellum
+GTEX-1F7RK-0011-R3b-SM-9OSWJ	Brain - Anterior cingulate cortex (BA24)
+GTEX-1EH9U-0011-R1b-SM-CJI2B	Brain - Hippocampus
+GTEX-WWYW-0011-R5A-SM-3NB3E	Brain - Caudate (basal ganglia)
+GTEX-NPJ8-0011-R1a-SM-33HCB	Brain - Hippocampus
+GTEX-14753-0011-R8b-SM-5S2U1	Brain - Hypothalamus
+GTEX-12126-0011-R10b-SM-5BC6T	Brain - Frontal Cortex (BA9)
+GTEX-1MJK2-3026-SM-EV7A5	Brain - Cerebellum
+GTEX-1C64N-0011-R1b-SM-7P8Q7	Brain - Hippocampus
+GTEX-18A6Q-2826-SM-7LTAO	Brain - Cerebellum
+GTEX-RU72-0011-R5A-SM-2TF6U	Brain - Caudate (basal ganglia)
+GTEX-WVLH-0011-R6A-SM-3MJFZ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1EKGG-2926-SM-7EPIH	Brain - Cortex
+GTEX-1IKJJ-0011-R5b-SM-CE6SL	Brain - Caudate (basal ganglia)
+GTEX-13OVJ-0011-R1b-SM-5L3I6	Brain - Hippocampus
+GTEX-11OC5-0626-SM-5HL6M	Brain - Cerebellum
+GTEX-1IKJJ-0011-R7a-SM-ARZLH	Brain - Putamen (basal ganglia)
+GTEX-17F97-0011-R5a-SM-7LG4Z	Brain - Caudate (basal ganglia)
+GTEX-15EO6-2926-SM-6M48D	Brain - Cerebellum
+GTEX-13OW8-0011-R1a-SM-5L3HI	Brain - Hippocampus
+GTEX-18464-0011-R6a-SM-731CA	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13O3O-0011-R5b-SM-5KM44	Brain - Caudate (basal ganglia)
+GTEX-R55E-0011-R6A-SM-2TC5T	Brain - Nucleus accumbens (basal ganglia)
+GTEX-ZE9C-0011-R3a-SM-4WKGT	Brain - Anterior cingulate cortex (BA24)
+GTEX-14LZ3-0011-R8b-SM-COH3M	Brain - Hypothalamus
+GTEX-13OW6-0011-R8a-SM-5L3GF	Brain - Hypothalamus
+GTEX-R55E-0011-R4A-SM-2TC5H	Brain - Amygdala
+GTEX-1C6WA-0011-R5a-SM-9WG5X	Brain - Caudate (basal ganglia)
+GTEX-11PRG-0011-R11b-SM-DNZZY	Brain - Cerebellar Hemisphere
+GTEX-1192X-3126-SM-5N9BY	Brain - Cortex
+GTEX-YFC4-3026-SM-5IFJK	Brain - Cerebellum
+GTEX-11ZTS-0011-R2b-SM-5BC75	Brain - Substantia nigra
+GTEX-11OF3-2926-SM-5HL78	Brain - Cortex
+GTEX-11DXY-0011-R11a-SM-DNZZN	Brain - Cerebellar Hemisphere
+GTEX-11DXY-0011-R8a-SM-DO11M	Brain - Hypothalamus
+GTEX-139TT-0011-R5b-SM-5K7W8	Brain - Caudate (basal ganglia)
+GTEX-PVOW-0011-R3A-SM-32PKX	Brain - Anterior cingulate cortex (BA24)
+GTEX-12WSH-0011-R2a-SM-5GU68	Brain - Substantia nigra
+GTEX-17EVQ-0011-R1a-SM-7189S	Brain - Hippocampus
+GTEX-XMD1-0011-R3B-SM-4AT5R	Brain - Anterior cingulate cortex (BA24)
+GTEX-1477Z-0011-R5b-SM-5PNUO	Brain - Caudate (basal ganglia)
+GTEX-14C5O-0011-R2a-SM-5ZZV2	Brain - Substantia nigra
+GTEX-1I1GS-0011-R7a-SM-CM2T6	Brain - Putamen (basal ganglia)
+GTEX-144GL-3026-SM-5Q5CW	Brain - Cortex
+GTEX-12ZZZ-0011-R6b-SM-5EQ5B	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13FLV-0011-R5a-SM-5LZWT	Brain - Caudate (basal ganglia)
+GTEX-1HB9E-3126-SM-AHZ4M	Brain - Cerebellum
+GTEX-13VXU-0011-R11b-SM-5O9DJ	Brain - Cerebellar Hemisphere
+GTEX-11DXY-0011-R5b-SM-DNZZL	Brain - Caudate (basal ganglia)
+GTEX-1H1CY-3026-SM-9OSW7	Brain - Cerebellum
+GTEX-1GMR8-3026-SM-9KNVF	Brain - Cortex
+GTEX-ZAB4-0011-R1a-SM-4RGNO	Brain - Hippocampus
+GTEX-11NUK-0011-R4a-SM-DO12B	Brain - Amygdala
+GTEX-1JN1M-3126-SM-AHZ4E	Brain - Cerebellum
+GTEX-1JMQK-0011-R2a-SM-EYYXQ	Brain - Substantia nigra
+GTEX-T5JC-0011-R2A-SM-32PLZ	Brain - Substantia nigra
+GTEX-WVLH-0011-R1A-SM-4MVOK	Brain - Hippocampus
+GTEX-1IKK5-0011-R1b-SM-CE6SQ	Brain - Hippocampus
+GTEX-131XH-0011-R4b-SM-5DUWB	Brain - Amygdala
+GTEX-TSE9-0011-R7A-SM-3DB7P	Brain - Putamen (basal ganglia)
+GTEX-1HB9E-0011-R4b-SM-ARZLS	Brain - Amygdala
+GTEX-11EMC-0011-R2b-SM-DO114	Brain - Substantia nigra
+GTEX-14JG1-0011-R6b-SM-5YYAU	Brain - Nucleus accumbens (basal ganglia)
+GTEX-X4XX-0011-R8B-SM-46MWM	Brain - Hypothalamus
+GTEX-1H3VE-2726-SM-9WPP3	Brain - Cortex
+GTEX-1GF9W-0011-R8b-SM-9QEIR	Brain - Hypothalamus
+GTEX-1LG7Y-0011-R5a-SM-EZ6MU	Brain - Caudate (basal ganglia)
+GTEX-14JIY-0011-R3a-SM-5YYAQ	Brain - Anterior cingulate cortex (BA24)
+GTEX-XLM4-0011-R2B-SM-4AT5Z	Brain - Substantia nigra
+GTEX-13O3O-0011-R11b-SM-5KM4G	Brain - Cerebellar Hemisphere
+GTEX-15G19-0011-R6b-SM-7KUM3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13O3O-0011-R4b-SM-5KM3F	Brain - Amygdala
+GTEX-17EVQ-0011-R3b-SM-7LT9B	Brain - Anterior cingulate cortex (BA24)
+GTEX-1B8L1-0011-R7b-SM-9OSVK	Brain - Putamen (basal ganglia)
+GTEX-1LVAO-0011-R11b-SM-EXOI8	Brain - Cerebellar Hemisphere
+GTEX-1GZ4I-0011-R3b-SM-9OSWP	Brain - Anterior cingulate cortex (BA24)
+GTEX-1JMQK-0011-R7b-SM-EXUTF	Brain - Putamen (basal ganglia)
+GTEX-12126-1026-SM-5P9JJ	Brain - Cortex
+GTEX-ZAB4-0011-R8b-SM-4SOKF	Brain - Hypothalamus
+GTEX-13SLW-0011-R5b-SM-5SI6Z	Brain - Caudate (basal ganglia)
+GTEX-14DAQ-0011-R5b-SM-5YYAK	Brain - Caudate (basal ganglia)
+GTEX-1H1ZS-0011-R9a-SM-CM2SO	Brain - Spinal cord (cervical c-1)
+GTEX-RNOR-0011-R8A-SM-EZ6MN	Brain - Hypothalamus
+GTEX-1C64N-0011-R7a-SM-7IGOI	Brain - Putamen (basal ganglia)
+GTEX-ZF28-2926-SM-4WKG1	Brain - Cerebellum
+GTEX-NL4W-0011-R5a-SM-2I3GD	Brain - Caudate (basal ganglia)
+GTEX-13FLW-1426-SM-5K7YE	Brain - Cortex
+GTEX-ZF28-0011-R10a-SM-4WWEH	Brain - Frontal Cortex (BA9)
+GTEX-11DXW-0011-R7b-SM-DO119	Brain - Putamen (basal ganglia)
+GTEX-1CB4G-0011-R2a-SM-9QEGQ	Brain - Substantia nigra
+GTEX-NPJ7-0011-R10A-SM-2I3E5	Brain - Frontal Cortex (BA9)
+GTEX-1GN73-0011-R4b-SM-9QEIK	Brain - Amygdala
+GTEX-12WSC-0011-R10a-SM-5GU57	Brain - Frontal Cortex (BA9)
+GTEX-11GS4-0011-R2a-SM-DO942	Brain - Substantia nigra
+GTEX-QMR6-0011-R2A-SM-32PKV	Brain - Substantia nigra
+GTEX-13X6I-0011-R3b-SM-5P9HM	Brain - Anterior cingulate cortex (BA24)
+GTEX-1CB4J-0011-R10a-SM-9WG63	Brain - Frontal Cortex (BA9)
+GTEX-13X6K-2826-SM-5O9DS	Brain - Cerebellum
+GTEX-T6MN-0011-R9A-SM-32QOZ	Brain - Spinal cord (cervical c-1)
+GTEX-ZV68-0011-R7a-SM-51MT4	Brain - Putamen (basal ganglia)
+GTEX-1HGF4-3126-SM-CL54M	Brain - Cortex
+GTEX-145LS-0011-R5a-SM-5SI65	Brain - Caudate (basal ganglia)
+GTEX-1F75A-0011-R4a-SM-ARL8J	Brain - Amygdala
+GTEX-1JJEA-0011-R4a-SM-EXUTC	Brain - Amygdala
+GTEX-X4EP-0011-R8B-SM-4QASL	Brain - Hypothalamus
+GTEX-13OW7-3026-SM-5L3GY	Brain - Cortex
+GTEX-1H2FU-0011-R3b-SM-CKZP4	Brain - Anterior cingulate cortex (BA24)
+GTEX-ZF28-0011-R9a-SM-4WWDY	Brain - Spinal cord (cervical c-1)
+GTEX-145MI-0011-R11a-SM-5P9JZ	Brain - Cerebellar Hemisphere
+GTEX-ZAJG-3026-SM-5HL92	Brain - Cerebellum
+GTEX-X261-0011-R8A-SM-4E3I5	Brain - Hypothalamus
+GTEX-QVUS-0011-R1A-SM-3GAD2	Brain - Hippocampus
+GTEX-12ZZW-0011-R10b-SM-5HL9X	Brain - Frontal Cortex (BA9)
+GTEX-WL46-0011-R1A-SM-3LK6M	Brain - Hippocampus
+GTEX-12WSE-0011-R10b-SM-5P9JV	Brain - Frontal Cortex (BA9)
+GTEX-Y8DK-0011-R6A-SM-4V6EG	Brain - Nucleus accumbens (basal ganglia)
+GTEX-12WSD-3126-SM-5HL7P	Brain - Cortex
+GTEX-1JMQJ-0011-R4b-SM-EXUT8	Brain - Amygdala
+GTEX-ZAB4-0011-R10a-SM-4SOKH	Brain - Frontal Cortex (BA9)
+GTEX-131YS-0011-R5b-SM-5K7YB	Brain - Caudate (basal ganglia)
+GTEX-139TS-0011-R10a-SM-5K7TU	Brain - Frontal Cortex (BA9)
+GTEX-R55E-0011-R5A-SM-2TC5N	Brain - Caudate (basal ganglia)
+GTEX-1H1ZS-0011-R4b-SM-CKZO7	Brain - Amygdala
+GTEX-13NYS-0011-R9b-SM-5MR44	Brain - Spinal cord (cervical c-1)
+GTEX-1HCU6-0011-R7b-SM-ARL77	Brain - Putamen (basal ganglia)
+GTEX-11DZ1-2926-SM-5A5KI	Brain - Cerebellum
+GTEX-1JMPZ-0011-R3a-SM-EYYWX	Brain - Anterior cingulate cortex (BA24)
+GTEX-1LC47-2926-SM-CXZKC	Brain - Cortex
+GTEX-11DXW-0011-R6a-SM-DO11N	Brain - Nucleus accumbens (basal ganglia)
+GTEX-XLM4-0011-R10A-SM-4AT5P	Brain - Frontal Cortex (BA9)
+GTEX-1F52S-3126-SM-7PC3M	Brain - Cortex
+GTEX-1J1OQ-0011-R8a-SM-ACKVE	Brain - Hypothalamus
+GTEX-QMR6-1426-SM-32PLA	Brain - Cortex
+GTEX-14PJM-0011-R4a-SM-5YYAS	Brain - Amygdala
+GTEX-16YQH-2926-SM-6LPJE	Brain - Cerebellum
+GTEX-1HSMO-2926-SM-C1YR5	Brain - Cerebellum
+GTEX-1192X-0011-R6a-SM-DNZZB	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11TTK-0011-R7b-SM-DNZZZ	Brain - Putamen (basal ganglia)
+GTEX-ZDXO-0011-R7a-SM-4WWCU	Brain - Putamen (basal ganglia)
+GTEX-11DZ1-0011-R3a-SM-DNZYY	Brain - Anterior cingulate cortex (BA24)
+GTEX-14E7W-0011-R10a-SM-5YYAX	Brain - Frontal Cortex (BA9)
+GTEX-11WQC-0011-R1b-SM-DO932	Brain - Hippocampus
+GTEX-ZXG5-0011-R8a-SM-57WD1	Brain - Hypothalamus
+GTEX-13QIC-3026-SM-5LU58	Brain - Cerebellum
+GTEX-X4XY-3026-SM-EWRM9	Brain - Cortex
+GTEX-14ASI-0011-R8b-SM-5S2UB	Brain - Hypothalamus
+GTEX-14E7W-0011-R1b-SM-5YYAT	Brain - Hippocampus
+GTEX-139T8-0011-R5b-SM-5J1MO	Brain - Caudate (basal ganglia)
+GTEX-1J8EW-0011-R11a-SM-AHZ37	Brain - Cerebellar Hemisphere
+GTEX-117XS-3026-SM-5N9CA	Brain - Cortex
+GTEX-18465-0011-R8b-SM-7LG6O	Brain - Hypothalamus
+GTEX-13QIC-0011-R1a-SM-5O9CJ	Brain - Hippocampus
+GTEX-13FXS-0011-R8a-SM-5J1MN	Brain - Hypothalamus
+GTEX-1445S-0011-R5a-SM-5PNUS	Brain - Caudate (basal ganglia)
+GTEX-144GL-2926-SM-5O99F	Brain - Cerebellum
+GTEX-14ABY-0011-R1a-SM-6EU2W	Brain - Hippocampus
+GTEX-17HII-0011-R7a-SM-79OMS	Brain - Putamen (basal ganglia)
+GTEX-1128S-2826-SM-5N9DI	Brain - Cerebellum
+GTEX-NL4W-0011-R10A-SM-2I3DY	Brain - Frontal Cortex (BA9)
+GTEX-1HBPI-0011-R6b-SM-A9G1T	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1JN1M-0011-R9a-SM-EZ6MR	Brain - Spinal cord (cervical c-1)
+GTEX-11WQK-0011-R10a-SM-5BC6R	Brain - Frontal Cortex (BA9)
+GTEX-1BAJH-0011-R6b-SM-7MXT2	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1LG7Y-3026-SM-D5OVI	Brain - Cortex
+GTEX-OHPN-0011-R2A-SM-2I5FB	Brain - Substantia nigra
+GTEX-1EMGI-0011-R11b-SM-9OSWX	Brain - Cerebellar Hemisphere
+GTEX-13OVJ-0011-R11a-SM-5P9H8	Brain - Cerebellar Hemisphere
+GTEX-14PJO-0011-R8a-SM-6AJAL	Brain - Hypothalamus
+GTEX-13FTY-0011-R1a-SM-5LZXE	Brain - Hippocampus
+GTEX-1F7RK-0011-R5b-SM-9WG5S	Brain - Caudate (basal ganglia)
+GTEX-12WSF-0011-R5a-SM-5HL8K	Brain - Caudate (basal ganglia)
+GTEX-1A8G6-0011-R8a-SM-7P8PD	Brain - Hypothalamus
+GTEX-11DXY-3126-SM-5N9BT	Brain - Cerebellum
+GTEX-1GN73-0011-R11b-SM-9OSX4	Brain - Cerebellar Hemisphere
+GTEX-QVUS-0011-R8A-SM-3GAD7	Brain - Hypothalamus
+GTEX-13O3O-3126-SM-5KM3H	Brain - Cortex
+GTEX-14JG1-0011-R7b-SM-5YYAV	Brain - Putamen (basal ganglia)
+GTEX-1J1OQ-0011-R3b-SM-D4P2B	Brain - Anterior cingulate cortex (BA24)
+GTEX-P44H-0011-R6A-SM-2XCF3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1B8L1-0011-R5a-SM-7DHN5	Brain - Caudate (basal ganglia)
+GTEX-13OW6-0011-R2a-SM-5L3HG	Brain - Substantia nigra
+GTEX-13PLJ-0011-R11b-SM-5O9BS	Brain - Cerebellar Hemisphere
+GTEX-1GZ4I-0011-R6b-SM-9WG77	Brain - Nucleus accumbens (basal ganglia)
+GTEX-14PN4-0011-R2a-SM-6EU2Y	Brain - Substantia nigra
+GTEX-S7SE-0011-R2A-SM-2XCDC	Brain - Substantia nigra
+GTEX-T2IS-0011-R5A-SM-32QP4	Brain - Caudate (basal ganglia)
+GTEX-ZUA1-0011-R7b-SM-4YCDP	Brain - Putamen (basal ganglia)
+GTEX-13RTJ-0011-R8b-SM-5O9DL	Brain - Hypothalamus
+GTEX-1GMR8-0011-R10a-SM-CJI21	Brain - Frontal Cortex (BA9)
+GTEX-11H98-0011-R10b-SM-5NQ98	Brain - Frontal Cortex (BA9)
+GTEX-12WSM-0011-R3b-SM-5LZWI	Brain - Anterior cingulate cortex (BA24)
+GTEX-1EKGG-0011-R1b-SM-9QEI1	Brain - Hippocampus
+GTEX-13OW7-0011-R10a-SM-5L3H3	Brain - Frontal Cortex (BA9)
+GTEX-1I1CD-0011-R10b-SM-CJI3W	Brain - Frontal Cortex (BA9)
+GTEX-11DYG-0011-R5a-SM-DO928	Brain - Caudate (basal ganglia)
+GTEX-15UF6-0011-R10b-SM-9OSVF	Brain - Frontal Cortex (BA9)
+GTEX-17EVQ-0011-R9b-SM-79OJY	Brain - Spinal cord (cervical c-1)
+GTEX-1CAV2-0011-R11a-SM-ARU8D	Brain - Cerebellar Hemisphere
+GTEX-147GR-0011-R2b-SM-5S2RQ	Brain - Substantia nigra
+GTEX-132Q8-3026-SM-5PNVG	Brain - Cortex
+GTEX-1I1GR-0011-R11a-SM-CM2T5	Brain - Cerebellar Hemisphere
+GTEX-1EN7A-0011-R5a-SM-9QEH6	Brain - Caudate (basal ganglia)
+GTEX-11ZVC-0011-R9a-SM-57WC5	Brain - Spinal cord (cervical c-1)
+GTEX-1E2YA-0011-R5a-SM-9QEGT	Brain - Caudate (basal ganglia)
+GTEX-YJ89-0011-R8b-SM-4SOK8	Brain - Hypothalamus
+GTEX-1IDJH-0011-R6a-SM-A9SLZ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OVL-0011-R10a-SM-5L3GS	Brain - Frontal Cortex (BA9)
+GTEX-14LZ3-0011-R3a-SM-664NQ	Brain - Anterior cingulate cortex (BA24)
+GTEX-15ER7-0011-R5b-SM-6M46T	Brain - Caudate (basal ganglia)
+GTEX-1B8L1-3226-SM-7P8OX	Brain - Cerebellum
+GTEX-16NPV-0011-R8a-SM-7EPH8	Brain - Hypothalamus
+GTEX-1399T-0011-R1b-SM-5DUWN	Brain - Hippocampus
+GTEX-14PJM-3126-SM-6EU2R	Brain - Cortex
+GTEX-1GMR8-0011-R6b-SM-CE6RC	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1R9K4-3126-SM-DTX9Y	Brain - Cortex
+GTEX-15G19-2826-SM-6M48K	Brain - Cerebellum
+GTEX-1LH75-0011-R7a-SM-EXOIF	Brain - Putamen (basal ganglia)
+GTEX-139TS-0011-R8a-SM-5J1NP	Brain - Hypothalamus
+GTEX-ZE7O-3126-SM-5HL5X	Brain - Cortex
+GTEX-14PN4-0011-R5a-SM-686ZV	Brain - Caudate (basal ganglia)
+GTEX-13S7M-0011-R5b-SM-5P9HS	Brain - Caudate (basal ganglia)
+GTEX-X4XY-0011-R8A-SM-46MVC	Brain - Hypothalamus
+GTEX-1HB9E-0011-R8b-SM-A9G1O	Brain - Hypothalamus
+GTEX-13X6I-0011-R1b-SM-5PNZC	Brain - Hippocampus
+GTEX-16Z82-0011-R1b-SM-7EPHZ	Brain - Hippocampus
+GTEX-13FLV-0011-R3b-SM-5LZYP	Brain - Anterior cingulate cortex (BA24)
+GTEX-13X6K-0011-R8b-SM-5PNZ4	Brain - Hypothalamus
+GTEX-WHSE-0011-R2A-SM-3P5ZL	Brain - Substantia nigra
+GTEX-12WSI-0011-R7b-SM-5GU78	Brain - Putamen (basal ganglia)
+GTEX-1B933-0011-R10b-SM-9OSVN	Brain - Frontal Cortex (BA9)
+GTEX-WZTO-0011-R6B-SM-4E3J6	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OVH-3026-SM-5MR4N	Brain - Cortex
+GTEX-1IGQW-0011-R2b-SM-D4P26	Brain - Substantia nigra
+GTEX-12WSC-0011-R5b-SM-5CVNS	Brain - Caudate (basal ganglia)
+GTEX-13JUV-3026-SM-5K7WX	Brain - Cerebellum
+GTEX-X4XY-0011-R3B-SM-EXOHI	Brain - Anterior cingulate cortex (BA24)
+GTEX-14LZ3-3026-SM-5ZZVU	Brain - Cortex
+GTEX-WVLH-0011-R11A-SM-3MJFO	Brain - Cerebellar Hemisphere
+GTEX-X4XX-0011-R5A-SM-46MWN	Brain - Caudate (basal ganglia)
+GTEX-RVPV-0011-R3A-SM-2TF63	Brain - Anterior cingulate cortex (BA24)
+GTEX-13FLV-0011-R8a-SM-5LZZE	Brain - Hypothalamus
+GTEX-1R9PO-0011-R5a-SM-EZ6NA	Brain - Caudate (basal ganglia)
+GTEX-17EVP-0011-R2a-SM-7LG4W	Brain - Substantia nigra
+GTEX-ZV68-0011-R10a-SM-51MT7	Brain - Frontal Cortex (BA9)
+GTEX-11TTK-2926-SM-5PNYP	Brain - Cortex
+GTEX-16Z82-0011-R2b-SM-79OK9	Brain - Substantia nigra
+GTEX-RNOR-0011-R7A-SM-2TF4V	Brain - Putamen (basal ganglia)
+GTEX-13CZV-0011-R10b-SM-5LZYD	Brain - Frontal Cortex (BA9)
+GTEX-15ER7-0011-R11a-SM-6LPIL	Brain - Cerebellar Hemisphere
+GTEX-WVLH-0011-R10A-SM-3MJFM	Brain - Frontal Cortex (BA9)
+GTEX-1H1DG-2826-SM-9JGHB	Brain - Cerebellum
+GTEX-17HHY-0011-R1a-SM-7189V	Brain - Hippocampus
+GTEX-13OW7-0011-R11a-SM-5O9DY	Brain - Cerebellar Hemisphere
+GTEX-12WSM-2126-SM-5GCOC	Brain - Cerebellum
+GTEX-14PJO-0011-R9b-SM-62LE9	Brain - Spinal cord (cervical c-1)
+GTEX-1GN1U-0011-R5a-SM-9QEIS	Brain - Caudate (basal ganglia)
+GTEX-N7MT-0011-R6a-SM-2I3G3	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1J8EW-0011-R9b-SM-D4P2F	Brain - Spinal cord (cervical c-1)
+GTEX-11UD1-0011-R2b-SM-5BC6O	Brain - Substantia nigra
+GTEX-X4XX-0011-R2A-SM-3P623	Brain - Substantia nigra
+GTEX-ZVZQ-0011-R1a-SM-57WBU	Brain - Hippocampus
+GTEX-1C64N-0011-R6a-SM-7IGO9	Brain - Nucleus accumbens (basal ganglia)
+GTEX-13OW5-0011-R8a-SM-5L3GQ	Brain - Hypothalamus
+GTEX-ZV68-0011-R2a-SM-4YCDK	Brain - Substantia nigra
+GTEX-12ZZW-2926-SM-5LZUP	Brain - Cortex
+GTEX-14ASI-0011-R10b-SM-5S2VZ	Brain - Frontal Cortex (BA9)
+GTEX-183WM-2826-SM-731C2	Brain - Cortex
+GTEX-1HGF4-0011-R5b-SM-CM2ST	Brain - Caudate (basal ganglia)
+GTEX-14DAQ-3026-SM-5S2QZ	Brain - Cerebellum
+GTEX-139TT-0011-R6b-SM-5J2ON	Brain - Nucleus accumbens (basal ganglia)
+GTEX-PWO3-0011-R2A-SM-2S1OX	Brain - Substantia nigra
+GTEX-14C5O-0011-R7b-SM-5YYAH	Brain - Putamen (basal ganglia)
+GTEX-NL3H-0011-R10A-SM-2I3E9	Brain - Frontal Cortex (BA9)
+GTEX-1GMR8-0011-R7b-SM-CJI2I	Brain - Putamen (basal ganglia)
+GTEX-17HG3-2926-SM-79ON8	Brain - Cortex
+GTEX-1117F-3226-SM-5N9CT	Brain - Cortex
+GTEX-12WSF-0011-R4b-SM-5HL88	Brain - Amygdala
+GTEX-13FHP-0011-R7b-SM-5LZYI	Brain - Putamen (basal ganglia)
+GTEX-1HUB1-0011-R11b-SM-CE6SC	Brain - Cerebellar Hemisphere
+GTEX-11GSP-0011-R9b-SM-5NQ77	Brain - Spinal cord (cervical c-1)
+GTEX-TSE9-0011-R10A-SM-3DB7O	Brain - Frontal Cortex (BA9)
+GTEX-1H1DG-0011-R11a-SM-C1YQK	Brain - Cerebellar Hemisphere
+GTEX-UTHO-0011-R11A-SM-3GIJE	Brain - Cerebellar Hemisphere
+GTEX-QVJO-0011-R4A-SM-2S1QL	Brain - Amygdala
+GTEX-11DZ1-0011-R9a-SM-DO933	Brain - Spinal cord (cervical c-1)
+GTEX-1J8EW-0011-R4b-SM-ARU89	Brain - Amygdala
+GTEX-1J1OQ-0011-R4a-SM-D4P2A	Brain - Amygdala
+GTEX-1EWIQ-0011-R9a-SM-ARL8L	Brain - Spinal cord (cervical c-1)
+GTEX-T5JC-0011-R11A-SM-32PMB	Brain - Cerebellar Hemisphere
+GTEX-1H3O1-0011-R10a-SM-CJI3O	Brain - Frontal Cortex (BA9)
+GTEX-NPJ7-2726-SM-2I3FT	Brain - Cortex
+GTEX-R55E-0011-R1A-SM-2TC6N	Brain - Hippocampus
+GTEX-139TT-0011-R7b-SM-5J2MN	Brain - Putamen (basal ganglia)
+GTEX-18464-0011-R4a-SM-7LG6T	Brain - Amygdala
+GTEX-OHPN-0011-R9A-SM-5TDEJ	Brain - Spinal cord (cervical c-1)
+GTEX-183WM-0011-R6b-SM-72D66	Brain - Nucleus accumbens (basal ganglia)
+GTEX-Q2AG-0011-R3A-SM-2HMJ9	Brain - Anterior cingulate cortex (BA24)
+GTEX-11GSP-0011-R8b-SM-5NQ79	Brain - Hypothalamus
+GTEX-132Q8-0011-R7b-SM-5N9F1	Brain - Putamen (basal ganglia)
+GTEX-131XH-0011-R10a-SM-5EGLJ	Brain - Frontal Cortex (BA9)
+GTEX-144GL-0011-R7b-SM-5P9HX	Brain - Putamen (basal ganglia)
+GTEX-ZVZQ-0011-R11a-SM-51MS6	Brain - Cerebellar Hemisphere
+GTEX-XMD1-0011-R6A-SM-4AT5K	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11UD1-0011-R5b-SM-5P9FP	Brain - Caudate (basal ganglia)
+GTEX-1H3NZ-0011-R1a-SM-CKZP5	Brain - Hippocampus
+GTEX-13RTL-0011-R3a-SM-5P9JP	Brain - Anterior cingulate cortex (BA24)
+GTEX-1B996-0011-R6b-SM-793AQ	Brain - Nucleus accumbens (basal ganglia)
+GTEX-X585-0011-R4B-SM-46MVH	Brain - Amygdala
+GTEX-WHSE-3026-SM-3P5ZH	Brain - Cortex
+GTEX-144GO-0011-R6b-SM-5S2V7	Brain - Nucleus accumbens (basal ganglia)
+GTEX-WWYW-3026-SM-3NB36	Brain - Cerebellum
+GTEX-17F97-0011-R1b-SM-7IGM9	Brain - Hippocampus
+GTEX-14PQA-0011-R10a-SM-6AJAA	Brain - Frontal Cortex (BA9)
+GTEX-13X6J-0011-R5b-SM-5PNWT	Brain - Caudate (basal ganglia)
+GTEX-OHPN-2526-SM-2I5H3	Brain - Cortex
+GTEX-15DYW-0011-R9b-SM-6PALB	Brain - Spinal cord (cervical c-1)
+GTEX-13G51-0011-R11b-SM-5J2NE	Brain - Cerebellar Hemisphere
+GTEX-1EMGI-0011-R8b-SM-9QEID	Brain - Hypothalamus
+GTEX-13FLV-0011-R11a-SM-5LZZ7	Brain - Cerebellar Hemisphere
+GTEX-1I1GQ-3026-SM-CL55K	Brain - Cortex
+GTEX-1J8Q2-0011-R10b-SM-D4P2C	Brain - Frontal Cortex (BA9)
+GTEX-S7PM-0011-R5A-SM-3NM8G	Brain - Caudate (basal ganglia)
+GTEX-13NYS-0011-R1b-SM-5MR55	Brain - Hippocampus
+GTEX-11ZTS-3226-SM-5EGID	Brain - Cerebellum
+GTEX-Y111-2726-SM-4TT3N	Brain - Cortex
+GTEX-1IY9M-0011-R5a-SM-A9SLX	Brain - Caudate (basal ganglia)
+GTEX-1LSNL-0011-R2a-SM-EZ6MK	Brain - Substantia nigra
+GTEX-1LVA9-0011-R7a-SM-EYYWG	Brain - Putamen (basal ganglia)
+GTEX-17MF6-0011-R7b-SM-7LG6J	Brain - Putamen (basal ganglia)
+GTEX-1GTWX-0011-R1a-SM-CE6RL	Brain - Hippocampus
+GTEX-12WSA-2926-SM-5EQ4D	Brain - Cortex
+GTEX-1IDJH-0011-R1b-SM-ARU6U	Brain - Hippocampus
+GTEX-1OJC4-0011-R6a-SM-EXOIM	Brain - Nucleus accumbens (basal ganglia)
+GTEX-11UD2-0011-R9b-SM-DO926	Brain - Spinal cord (cervical c-1)
+GTEX-Y8DK-0726-SM-4TT3S	Brain - Cerebellum
+GTEX-13SLX-0011-R10a-SM-5P9HV	Brain - Frontal Cortex (BA9)
+GTEX-15DCD-0011-R6b-SM-6M46L	Brain - Nucleus accumbens (basal ganglia)
+GTEX-18A6Q-0011-R1b-SM-731DI	Brain - Hippocampus
+GTEX-1B933-0011-R9a-SM-79OOR	Brain - Spinal cord (cervical c-1)
+GTEX-11PRG-2926-SM-5987A	Brain - Cortex
+GTEX-17EVQ-2726-SM-7EWDT	Brain - Cerebellum
+GTEX-13O3Q-0011-R6a-SM-5KM2V	Brain - Nucleus accumbens (basal ganglia)
+GTEX-XLM4-0011-R4B-SM-4AT5C	Brain - Amygdala
+GTEX-PVOW-0011-R1A-SM-32PL6	Brain - Hippocampus
+GTEX-1H23P-0011-R9a-SM-CM2T1	Brain - Spinal cord (cervical c-1)
+GTEX-WL46-0011-R7A-SM-3LK7X	Brain - Putamen (basal ganglia)
+GTEX-13FLW-0011-R7b-SM-5L3EZ	Brain - Putamen (basal ganglia)
+GTEX-15ER7-0011-R4a-SM-6M46S	Brain - Amygdala
+GTEX-11ONC-0011-R6a-SM-DO12A	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1A3MX-0011-R3b-SM-79OOW	Brain - Anterior cingulate cortex (BA24)
+GTEX-13CZV-0011-R7b-SM-5LZXH	Brain - Putamen (basal ganglia)
+GTEX-14BIN-0011-R9a-SM-5SI76	Brain - Spinal cord (cervical c-1)
+GTEX-14PJM-0011-R8b-SM-69LPD	Brain - Hypothalamus
+GTEX-1128S-2726-SM-5H12C	Brain - Cortex
+GTEX-17HG3-0011-R4a-SM-7IGLL	Brain - Amygdala
+GTEX-14JG1-0011-R4b-SM-62LEB	Brain - Amygdala
+GTEX-1IOXB-0011-R10a-SM-D3L8I	Brain - Frontal Cortex (BA9)
+GTEX-14PN4-3026-SM-664O4	Brain - Cerebellum
+GTEX-X4XX-0011-R6B-SM-46MWP	Brain - Nucleus accumbens (basal ganglia)
+GTEX-1J1OQ-0011-R11a-SM-A96S3	Brain - Cerebellar Hemisphere
+GTEX-1I1GV-0011-R9b-SM-ARZLE	Brain - Spinal cord (cervical c-1)
