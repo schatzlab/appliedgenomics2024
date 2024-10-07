@@ -29,3 +29,4 @@ If you submit after this time, you will use your late days. Remember, you are on
 * Jupyter notebooks: [https://jupyter.org/](https://jupyter.org/)
 * scikit-learn: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/) 
 * pytorch: [https://pytorch.org/](https://pytorch.org/)
+* umap-learn: [https://umap-learn.readthedocs.io/en/latest/basic_usage.html](https://umap-learn.readthedocs.io/en/latest/basic_usage.html)
