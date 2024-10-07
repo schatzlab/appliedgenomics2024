@@ -9,3 +9,17 @@ In this assignment you will explore a couple of key aspects of RNA-seq and intro
 As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/class/m09t5q6qles40a).
 
 See the notebook here: [Assignment4.ipynb](Assignment4.ipynb)
+
+
+### Packaging
+
+The solutions to the above questions should be submitted as a single PDF document that includes your name, email address, and all relevant code, text, and figures (as needed). If you use ChatGPT for any of the code, also record the prompts used. Submit your solutions by uploading the PDF to [GradeScope](https://www.gradescope.com/courses/839343), and remember to select where in your submission each question/subquestion is. The Entry Code is: Z3J8YV. 
+
+If you submit after this time, you will use your late days. Remember, you are only allowed 4 late days for the entire semester!
+
+
+### Resources
+
+* Jupyter notebooks: [https://jupyter.org/](https://jupyter.org/)
+* scikit-learn: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/) 
+* pytorch: [https://pytorch.org/](https://pytorch.org/)
