@@ -18,7 +18,7 @@ Then activate the environment and install the following package using pip:
 
 If you have issues with creating the environment and installing the required packages, you can use [Google Colab](https://colab.research.google.com/)
 
-You will need to add the following cells to the top of the notebook to install the dependencies:
+You will need to add the following cells to the top of the notebook in Google Colab to install the dependencies:
 
 ```
 !pip install kipoiseq==0.5.2
