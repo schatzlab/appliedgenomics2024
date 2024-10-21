@@ -8,7 +8,7 @@ In this assignment you will explore a couple of key aspects of convolutional neu
 
 For this assignment, you will create the environment as follows:
 
-`mamba create -n asn5 python=3.10 scikit-learn pytorch matplotlib pandas numpy jupyter kipoiseq logomaker`
+`mamba create -n asn5 python=3.10 scikit-learn pytorch matplotlib pandas numpy jupyter seaborn kipoiseq logomaker`
 
 Then activate the environment and install the following package using pip:
 
@@ -16,6 +16,17 @@ Then activate the environment and install the following package using pip:
 
 `pip install enformer-pytorch`
 
+If you have issues with creating the environment and installing the required packages, you can use [Google Colab](https://colab.research.google.com/)
+
+You will need to add the following cells to the top of the notebook in Google Colab to install the dependencies:
+
+```
+!pip install kipoiseq==0.5.2
+!pip install logomaker
+!pip install enformer-pytorch
+```
+
+Because of the way Google Colab works, you will need to install these everytime you reopen the notebook. 
 
 As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/class/m09t5q6qles40a).
 
