@@ -13,8 +13,11 @@ For this assignment, you will create the environment as follows:
 Then activate the environment and install the following packages using pip:
 
 `mamba activate asn5`
+
 `pip install kipoiseq==0.5.2`
+
 `pip install logomaker`
+
 `pip install enformer-pytorch`
 
 Then you need to install Jupyter:
