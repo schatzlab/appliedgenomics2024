@@ -8,21 +8,14 @@ In this assignment you will explore a couple of key aspects of convolutional neu
 
 For this assignment, you will create the environment as follows:
 
-`mamba create -n asn5 scikit-learn pytorch matplotlib pandas numpy`
+`mamba create -n asn5 python=3.10 scikit-learn pytorch matplotlib pandas numpy jupyter kipoiseq logomaker`
 
-Then activate the environment and install the following packages using pip:
+Then activate the environment and install the following package using pip:
 
 `mamba activate asn5`
 
-`pip install kipoiseq==0.5.2`
-
-`pip install logomaker`
-
 `pip install enformer-pytorch`
 
-Then you need to install Jupyter:
-
-`mamba install jupyter`
 
 As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/class/m09t5q6qles40a).
 
