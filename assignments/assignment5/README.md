@@ -8,7 +8,7 @@ In this assignment you will explore a couple of key aspects of convolutional neu
 
 For this assignment, you will create the environment as follows:
 
-`mamba create -n asn5 python=3.10 scikit-learn pytorch matplotlib pandas numpy jupyter kipoiseq logomaker`
+`mamba create -n asn5 python=3.10 scikit-learn pytorch matplotlib pandas numpy jupyter seaborn kipoiseq logomaker`
 
 Then activate the environment and install the following package using pip:
 
