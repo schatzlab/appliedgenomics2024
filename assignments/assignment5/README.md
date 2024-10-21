@@ -6,9 +6,16 @@ Due Date: Monday, October 28 @ 11:59pm <br>
 
 In this assignment you will explore a couple of key aspects of convolutional neural networks such as self-attention and feature encoding as well as explore a pre-trained convolutional neural network for gene expression prediction. For this assignment, we will provide a Jupyter notebook with code for you to use and complete your assignment in. 
 
-To use the Jupyter notebook, you can use your assignment 4 mamba environment. If you need to recreate it, you can do so with:
+For this assignment, you will create the environment as follows:
 
-`mamba create -n asn4 scikit-learn pytorch matplotlib jupyter umap-learn seaborn pandas numpy`
+`mamba create -n asn5 python=3.10 scikit-learn pytorch matplotlib pandas numpy jupyter kipoiseq logomaker`
+
+Then activate the environment and install the following package using pip:
+
+`mamba activate asn5`
+
+`pip install enformer-pytorch`
+
 
 As a reminder, any questions about the assignment should be posted to [Piazza](https://piazza.com/class/m09t5q6qles40a).
 
