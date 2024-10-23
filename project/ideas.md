@@ -136,6 +136,7 @@ Pointers to open access data sets to help get you started!
 
 ### Human
 - 1000 Genomes: open access DNA sequencing reads for 3202 diverse human genomes: https://pubmed.ncbi.nlm.nih.gov/36055201/
+- MAGE: Expression data from 731 samples from the 1000 Genomes project: https://www.nature.com/articles/s41586-024-07708-2
 - Simons Genome Diversity Project (SGDP): open access DNA sequencing reads from 279 diverse human genomes: https://www.nature.com/articles/nature18964
 - Personal Genome Project (PGP): self reported 23-and-me reports (DNA data along with other phenotype data): https://www.personalgenomes.org/
 - T2T Genome: https://github.com/marbl/CHM13
