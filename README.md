@@ -19,6 +19,7 @@ We will study the leading computational and quantitative approaches for comparin
 - [Syllabus and Policies](https://github.com/schatzlab/appliedgenomics2024/tree/master/policies)
 - [Piazza Discussion Board](https://piazza.com/jhu/fall2024/600449600649/home)
 - [GradeScope](https://www.gradescope.com/courses/839343) Entry Code: Z3J8YV
+- [Class videos](https://jhu.instructure.com/courses/80033/external_tools/10295) Panopto in Canvas: JHU only
 - [Fall 2023 Course Materials](https://github.com/schatzlab/appliedgenomics2023)
 
 
