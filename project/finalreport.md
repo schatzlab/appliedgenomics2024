@@ -1,3 +1,5 @@
+# Final Project Report
+Assignment Date: November 6, 2024 <br>
 Due Date: Monday, December 16, 2024 @ 11:59pm 
 
 Each team should submit a PDF of your final project proposal (6 to 9 pages) to GradeScope by 11:59pm on Monday December 16. No late days can be used as grades must be submitted to the registrar that week.
