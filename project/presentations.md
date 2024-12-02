@@ -27,7 +27,7 @@ Presentations will be a total of 12 minutes: 10 minutes for the presentation, fo
 | 5    | 12/4  | 3:48  | Team Barbour                      | Alexis Barbour                                         | Benchmarking non-coding mutation analysis schemes for evaulating Type 1 Diabetes                                                 |
 | 6    | 12/4  | 4:00  | All of Us Team                    | Levon Galstyan, Nitish Aswani, Talia Haller            | Genomic Insights into Sleep Patterns, Disease Outcomes, and Biomarker Associations using the All of Us Dataset                   |
 |      |       |       |                                   |                                                        |                                                                                                                                  |
-| 7    | 12/2  | 4:20  | Variant Visionaries               | Alexandra Gorham, Christine Park, Natalie Vallejo      | Benchmarking Non-coding Variant Scoring Tools for Cancer Pathogenicity Prediction                                                |
+| 7    | 12/4  | 4:20  | Variant Visionaries               | Alexandra Gorham, Christine Park, Natalie Vallejo      | Benchmarking Non-coding Variant Scoring Tools for Cancer Pathogenicity Prediction                                                |
 
 
 ## Recommended outline for your talk (~1 minute per slide):
