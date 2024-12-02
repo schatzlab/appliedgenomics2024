@@ -17,9 +17,8 @@ Presentations will be a total of 12 minutes: 10 minutes for the presentation, fo
 | 1    | 12/2  | 3:00  | Silent Codebreakers               | Cecelia Zhang, Jiarui Yang                             | Benchmarking Non-Coding Mutation Analysis Schemes on Cancer Genomes                                                              |
 | 2    | 12/2  | 3:12  | Team Table                        | Oce Bohra, Zoe Rudnick                                 | The emerging contribution of non-coding mutations in glioblastoma development                                                    |
 | 3    | 12/2  | 3:24  | Team Brady                        | Brady Bock                                             | DNN analysis of gut microbiomes to predict colorectal cancer disease state                                                       |
-| 4    | 12/2  | 3:36  | Variant Visionaries               | Alexandra Gorham, Christine Park, Natalie Vallejo      | Benchmarking Non-coding Variant Scoring Tools for Cancer Pathogenicity Prediction                                                |
-| 5    | 12/2  | 3:48  | Human to Plants                   | Xiaojun Gao, Yujia, Yushan Zou                         | Evaluation of applicability of ChromHMM for Plants in Chromatin States and Gene Expression                                       |
-| 6    | 12/2  | 4:00  | Team Miller                       | Logan Miller                                           | Population-Specific Evolutionary Hotspots in Human Genomes                                                                       |
+| 4    | 12/2  | 3:36  | Human to Plants                   | Xiaojun Gao, Yujia, Yushan Zou                         | Evaluation of applicability of ChromHMM for Plants in Chromatin States and Gene Expression                                       |
+| 5    | 12/2  | 3:48  | Team Miller                       | Logan Miller                                           | Population-Specific Evolutionary Hotspots in Human Genomes                                                                       |
 |      |       |       |                                   |                                                        |                                                                                                                                  |
 | 1    | 12/4  | 3:00  | SE Palmeiras                      | Caleb Hallinan, Jamie Moore, Rafael dos Santos Peixoto | Evaluating cell-type clustering algorithm’s robustness to technical artifacts via synthetic spatial transcriptomics data         |
 | 2    | 12/4  | 3:12  | Nuclencoder                       | Amanda Xu, Angela Yang, Jiamin Li                      | DNA Cryptography: Digital Signatures for Encryption to Facilitate Safe Data Storage                                              |
@@ -27,6 +26,9 @@ Presentations will be a total of 12 minutes: 10 minutes for the presentation, fo
 | 4    | 12/4  | 3:36  | Quetzalli Tlalli                  | Arshana Welivita, Atticus Colwell                      | Benchmarking Methods for Inferring the Ethnicity of an Individual from Their Genotype                                            |
 | 5    | 12/4  | 3:48  | Team Barbour                      | Alexis Barbour                                         | Benchmarking non-coding mutation analysis schemes for evaulating Type 1 Diabetes                                                 |
 | 6    | 12/4  | 4:00  | All of Us Team                    | Levon Galstyan, Nitish Aswani, Talia Haller            | Genomic Insights into Sleep Patterns, Disease Outcomes, and Biomarker Associations using the All of Us Dataset                   |
+|
+| 7    | 12/2  | 4:20  | Variant Visionaries               | Alexandra Gorham, Christine Park, Natalie Vallejo      | Benchmarking Non-coding Variant Scoring Tools for Cancer Pathogenicity Prediction                                                |
+
 
 ## Recommended outline for your talk (~1 minute per slide):
 
